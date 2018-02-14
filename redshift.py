@@ -23,3 +23,7 @@ for line in result4:
 
 
 values = np.asarray(result6)
+df1=pandas.DataFrame(values)
+
+
+print(df1)
